@@ -1,0 +1,3 @@
+/home/xyk/vscode/work/xyk/build/CMakeFiles/rebuild_cache.dir
+/home/xyk/vscode/work/xyk/build/CMakeFiles/edit_cache.dir
+/home/xyk/vscode/work/xyk/build/CMakeFiles/project.dir

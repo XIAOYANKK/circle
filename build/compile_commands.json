@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/xyk/vscode/work/xyk/build",
+  "command": "/usr/bin/c++   -I/home/xyk/vscode/work/xyk/include   -Wall -g   -std=gnu++14 -o CMakeFiles/project.dir/src/main.cpp.o -c /home/xyk/vscode/work/xyk/src/main.cpp",
+  "file": "/home/xyk/vscode/work/xyk/src/main.cpp"
+}
+]
